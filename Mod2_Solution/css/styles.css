@@ -29,7 +29,7 @@ h1 {
 .item {  
   position: relative;
   top: 0;
-  background-color:#f2b852;
+  background-color:#a1a6a6;
   margin: 15px;
   padding: 15px;
   border: 1px solid #000;
@@ -47,19 +47,20 @@ h1 {
   position: absolute;
   top:0;
   right: 0px;
-  padding: 1% 6%;
+  padding: 1% 8%;
   border-left: 1px solid #000;
   border-bottom: 1px solid #000;
 }
 
 #chicken{
-  background-color:#e3f26f;         
+  background-color:#f78f9f;         
 }
 #beef{
-  background-color:#9866ed;  
+  background-color:#9e0e0e;
+  color: white;  
 }
 #sushi{
-  background-color:#8EA896;   
+  background-color:#f7f492;   
 }
 
 
